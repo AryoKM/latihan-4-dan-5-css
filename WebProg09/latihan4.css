@@ -1,0 +1,14 @@
+table {
+    border: 1px solid black;
+}
+
+tr {
+    background-color: lightcoral;
+}
+
+td {
+    height: 50px;
+    width: 125px;
+    border: 1px dashed blue;
+    text-align: center;
+}
